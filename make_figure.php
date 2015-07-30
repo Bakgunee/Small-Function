@@ -14,4 +14,8 @@ if($num < $max){
 return $res;
 }
 
+
+//example
+make_figure(22,5);  // number 22 to 00022
+
 ?>
